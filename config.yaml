@@ -1,0 +1,7 @@
+server:
+  port: 80
+  cacheDir: /home/filebrowser/data/cache
+  sources:
+    - path: /srv
+      config:
+        defaultEnabled: true
